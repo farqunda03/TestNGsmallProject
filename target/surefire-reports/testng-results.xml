@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-01T13:00:31 GMT-04:00" name="Suite" finished-at="2023-06-01T13:02:30 GMT-04:00" duration-ms="119206">
+    <groups>
+    </groups>
+    <test started-at="2023-06-01T13:00:31 GMT-04:00" name="Test" finished-at="2023-06-01T13:02:30 GMT-04:00" duration-ms="119206">
+      <class name="com.tutorialsninja.practice.testcases.CompleteTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tutorialsninja.practice.testcases.CompleteTest@5158b42f]" started-at="2023-06-01T13:00:31 GMT-04:00" name="setup" finished-at="2023-06-01T13:00:45 GMT-04:00" duration-ms="13690" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="completeTestCase()[pri:1, instance:com.tutorialsninja.practice.testcases.CompleteTest@5158b42f]" started-at="2023-06-01T13:00:45 GMT-04:00" name="completeTestCase" finished-at="2023-06-01T13:00:45 GMT-04:00" duration-ms="114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- completeTestCase -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tutorialsninja.practice.testcases.CompleteTest@5158b42f]" started-at="2023-06-01T13:00:45 GMT-04:00" name="tearDown" finished-at="2023-06-01T13:00:54 GMT-04:00" duration-ms="8898" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tutorialsninja.practice.testcases.CompleteTest@5158b42f]" started-at="2023-06-01T13:00:54 GMT-04:00" name="setup" finished-at="2023-06-01T13:01:08 GMT-04:00" duration-ms="14563" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="clickOnLaptopsandNotebooks()[pri:2, instance:com.tutorialsninja.practice.testcases.CompleteTest@5158b42f]" started-at="2023-06-01T13:01:08 GMT-04:00" name="clickOnLaptopsandNotebooks" finished-at="2023-06-01T13:01:10 GMT-04:00" duration-ms="1633" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnLaptopsandNotebooks -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tutorialsninja.practice.testcases.CompleteTest@5158b42f]" started-at="2023-06-01T13:01:10 GMT-04:00" name="tearDown" finished-at="2023-06-01T13:01:17 GMT-04:00" duration-ms="7196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tutorialsninja.practice.testcases.CompleteTest@5158b42f]" started-at="2023-06-01T13:01:17 GMT-04:00" name="setup" finished-at="2023-06-01T13:01:32 GMT-04:00" duration-ms="14642" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="clickOnLaptop()[pri:3, instance:com.tutorialsninja.practice.testcases.CompleteTest@5158b42f]" started-at="2023-06-01T13:01:32 GMT-04:00" name="clickOnLaptop" finished-at="2023-06-01T13:01:34 GMT-04:00" duration-ms="2657" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnLaptop -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tutorialsninja.practice.testcases.CompleteTest@5158b42f]" started-at="2023-06-01T13:01:34 GMT-04:00" name="tearDown" finished-at="2023-06-01T13:01:42 GMT-04:00" duration-ms="7161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tutorialsninja.practice.testcases.CompleteTest@5158b42f]" started-at="2023-06-01T13:01:42 GMT-04:00" name="setup" finished-at="2023-06-01T13:01:57 GMT-04:00" duration-ms="15569" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="completeBuying()[pri:4, instance:com.tutorialsninja.practice.testcases.CompleteTest@5158b42f]" started-at="2023-06-01T13:01:57 GMT-04:00" name="completeBuying" finished-at="2023-06-01T13:02:22 GMT-04:00" duration-ms="24985" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- completeBuying -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tutorialsninja.practice.testcases.CompleteTest@5158b42f]" started-at="2023-06-01T13:02:22 GMT-04:00" name="tearDown" finished-at="2023-06-01T13:02:30 GMT-04:00" duration-ms="8017" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tutorialsninja.practice.testcases.CompleteTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
